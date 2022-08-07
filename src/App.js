@@ -10,7 +10,7 @@ function App() {
           This is my app, super excited to deploy this!!!
         </p>
         <div>
-          this is some random stuff on my static site, blah blah blah
+          this is some random dope stuff on my static site, blah blah blah
         </div>
       </header>
     </div>
